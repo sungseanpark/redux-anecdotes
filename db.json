@@ -3,7 +3,7 @@
     {
       "content": "If it hurts, do it more often",
       "id": "47145",
-      "votes": 1
+      "votes": 6
     },
     {
       "content": "Adding manpower to a late software project makes it later!",
@@ -38,6 +38,11 @@
     {
       "id": "c3b2",
       "content": "Overly concise code is not always the best, longer but more human readable code may be preferred",
+      "votes": 0
+    },
+    {
+      "id": "ccc3",
+      "content": "Understand what the code is doing before writing more code",
       "votes": 0
     }
   ]
