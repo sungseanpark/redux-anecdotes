@@ -34,6 +34,11 @@
       "id": "bf15",
       "content": "You should always have your console open",
       "votes": 0
+    },
+    {
+      "id": "c3b2",
+      "content": "Overly concise code is not always the best, longer but more human readable code may be preferred",
+      "votes": 0
     }
   ]
 }
